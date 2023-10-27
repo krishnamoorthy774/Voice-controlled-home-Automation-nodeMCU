@@ -11,15 +11,15 @@
 
 #include <map>
 
-#define WIFI_SSID         "What is reality?"    
-#define WIFI_PASS         "mqey6734"
-#define APP_KEY           "3785542c-30ca-4558-9236-f1cfd5e7e48e"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "e6b86ea5-9067-433d-9a65-817dd21acff8-8a0aaeb4-f010-4428-886d-35b5a8daf4a8"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define WIFI_SSID         "Your wifi SSID"    
+#define WIFI_PASS         "password"
+#define APP_KEY           "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"      // Should look like ""
+#define APP_SECRET        "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"   // Should look like ""
 
 //Enter the device IDs here
-#define device_ID_1   "643e131c312d40edc3f40703"
-#define device_ID_2   "643e137d918a3c911c81f08c"
-#define device_ID_3   "643e1394918a3c911c81f0d8"
+#define device_ID_1   "643exxxxxxxxxxxxxxxxxxxxx"  
+#define device_ID_2   "643exxxxxxxxxxxxxxxxxxxxx"
+#define device_ID_3   "643exxxxxxxxxxxxxxxxxxxxx"
 
 // define the GPIO connected with Relays and switches
 #define RelayPin1 4  //D2
