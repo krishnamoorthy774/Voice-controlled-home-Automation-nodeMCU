@@ -9,9 +9,9 @@ Download and import the folder into the VScode workspace.
 
 Open" src> **main.cpp** "file. 
 
-Give your wifi SSID and password.
+Give your **wifi SSID** and **password**.
 
-And the APP_KEY, SECRET_KEY and the device_IDs from the [sinric.pro](https://github.com/sinricpro/esp8266-esp32-sdk)
+And the **APP_KEY**, **SECRET_KEY** and the **device_ID**s from the [sinric.pro](https://github.com/sinricpro/esp8266-esp32-sdk).
 
 Connect the switches and relays to the appropirate pins of the nodeMCU as given in the code.
 
